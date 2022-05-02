@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FireWizard308
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Pyton
+- 💞️ I’m looking to collaborate on python
+- 📫 How to reach me : pm me
